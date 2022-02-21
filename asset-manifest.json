@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e8a9154.css",
+    "main.js": "/static/js/main.7e14685d.js",
+    "static/media/header-1243x570.jpg": "/static/media/header-1243x570.72bc5f94615b512a4dce.jpg",
+    "static/media/email_icon_transparent512.png": "/static/media/email_icon_transparent512.1e51ae9a5a7f96ed847b.png",
+    "static/media/1200px-Facebook_icon.svg.png": "/static/media/1200px-Facebook_icon.svg.399e8ca2848e0f3ee5cb.png",
+    "static/media/phone.png": "/static/media/phone.ee99d345ab000a69b2e3.png",
+    "index.html": "/index.html",
+    "main.6e8a9154.css.map": "/static/css/main.6e8a9154.css.map",
+    "main.7e14685d.js.map": "/static/js/main.7e14685d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e8a9154.css",
+    "static/js/main.7e14685d.js"
+  ]
+}
