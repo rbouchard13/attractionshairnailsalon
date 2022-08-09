@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/attractionshairnailsalon/static/css/main.68bdf80c.css",
-    "main.js": "/attractionshairnailsalon/static/js/main.30697e1a.js",
+    "main.css": "/attractionshairnailsalon/static/css/main.61b37021.css",
+    "main.js": "/attractionshairnailsalon/static/js/main.b832b50b.js",
     "static/media/prod2.JPG": "/attractionshairnailsalon/static/media/prod2.76c0d9f7ae077ca272fb.JPG",
     "static/media/prod1.JPG": "/attractionshairnailsalon/static/media/prod1.c7da0d4021132a1242d6.JPG",
     "static/media/instagram.svg": "/attractionshairnailsalon/static/media/instagram.0a22c9650b9d213aa7ac02af8238425c.svg",
@@ -16,11 +16,11 @@
     "static/media/phone.png": "/attractionshairnailsalon/static/media/phone.6146e3f13595ae080b55.png",
     "static/media/teamplaceholder.png": "/attractionshairnailsalon/static/media/teamplaceholder.e97a9ef8d58d48606a0c.png",
     "index.html": "/attractionshairnailsalon/index.html",
-    "main.68bdf80c.css.map": "/attractionshairnailsalon/static/css/main.68bdf80c.css.map",
-    "main.30697e1a.js.map": "/attractionshairnailsalon/static/js/main.30697e1a.js.map"
+    "main.61b37021.css.map": "/attractionshairnailsalon/static/css/main.61b37021.css.map",
+    "main.b832b50b.js.map": "/attractionshairnailsalon/static/js/main.b832b50b.js.map"
   },
   "entrypoints": [
-    "static/css/main.68bdf80c.css",
-    "static/js/main.30697e1a.js"
+    "static/css/main.61b37021.css",
+    "static/js/main.b832b50b.js"
   ]
 }
