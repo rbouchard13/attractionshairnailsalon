@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/attractionshairnailsalon/static/css/main.c20ff6d3.css",
-    "main.js": "/attractionshairnailsalon/static/js/main.c85721ed.js",
+    "main.css": "/attractionshairnailsalon/static/css/main.8aa6ae04.css",
+    "main.js": "/attractionshairnailsalon/static/js/main.b790eb15.js",
     "static/media/prod2.JPG": "/attractionshairnailsalon/static/media/prod2.76c0d9f7ae077ca272fb.JPG",
     "static/media/prod1.JPG": "/attractionshairnailsalon/static/media/prod1.c7da0d4021132a1242d6.JPG",
     "static/media/instagram.svg": "/attractionshairnailsalon/static/media/instagram.0a22c9650b9d213aa7ac02af8238425c.svg",
-    "static/media/header-1243x570.jpg": "/attractionshairnailsalon/static/media/header-1243x570.72bc5f94615b512a4dce.jpg",
+    "static/media/homeCenter.png": "/attractionshairnailsalon/static/media/homeCenter.fdeed6fa32112b765338.png",
+    "static/media/homeLeft.png": "/attractionshairnailsalon/static/media/homeLeft.7a612589b2bb826d14de.png",
+    "static/media/homeRight.png": "/attractionshairnailsalon/static/media/homeRight.1ca74f92515b7aa3bef2.png",
     "static/media/email_icon_transparent512.png": "/attractionshairnailsalon/static/media/email_icon_transparent512.1e51ae9a5a7f96ed847b.png",
     "static/media/hair.jpg": "/attractionshairnailsalon/static/media/hair.752aa541ef404f6b491a.jpg",
     "static/media/nails.jpg": "/attractionshairnailsalon/static/media/nails.8ff5933956e7a8d1b711.jpg",
@@ -14,11 +16,11 @@
     "static/media/phone.png": "/attractionshairnailsalon/static/media/phone.6146e3f13595ae080b55.png",
     "static/media/teamplaceholder.png": "/attractionshairnailsalon/static/media/teamplaceholder.e97a9ef8d58d48606a0c.png",
     "index.html": "/attractionshairnailsalon/index.html",
-    "main.c20ff6d3.css.map": "/attractionshairnailsalon/static/css/main.c20ff6d3.css.map",
-    "main.c85721ed.js.map": "/attractionshairnailsalon/static/js/main.c85721ed.js.map"
+    "main.8aa6ae04.css.map": "/attractionshairnailsalon/static/css/main.8aa6ae04.css.map",
+    "main.b790eb15.js.map": "/attractionshairnailsalon/static/js/main.b790eb15.js.map"
   },
   "entrypoints": [
-    "static/css/main.c20ff6d3.css",
-    "static/js/main.c85721ed.js"
+    "static/css/main.8aa6ae04.css",
+    "static/js/main.b790eb15.js"
   ]
 }
